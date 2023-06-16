@@ -1,0 +1,35 @@
+body {
+    background-color: #023047;
+}
+
+h1  {
+    text-align: center;
+    letter-spacing: .5rem;
+    color: #fb8500;
+    padding: 2rem;
+    font-family: 'Bangers';
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    width: 20%;
+    font-family: 'Bangers';
+    background-color: #8ecae6;
+    color: #023047;
+}
+
+h2 {
+    font-size: 2.5rem;
+    text-align: center;
+    letter-spacing: .25rem;
+    color: #ffb703;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 1rem;
+    font-family: 'Unica One';
+
+
+}
